@@ -116,6 +116,7 @@ Rt = v V/ i A = o Ohms.
 To obtain the value for the external resistor, you need measure the resistance of your _SMA wire_ and substract it to the total resistance value you calculated earlier. 
 
 To calculate the power that the resistance will need to dissipate, you simply need to multiply the resistor value times the square of your manufacturer's recommended current P= R x I x I. 
+![Power circuit calculations](img/temp/powerCircuit.jpeg)
 
 ### PWM
 Instead of using a resistor to limit the power that the muscle wire dissipates, you can use a PWM circuit. We've included the code for an arduino PWM circuit, configured at around 87% duty cycle, which works well for our design. If you have a different design, you will have to experiment with the duty cycle to see what duty cycle properly activates your Tact-io and _feels right_ on your skin. 
