@@ -65,7 +65,7 @@ Use a spring that has enough force to return the lever to its resting postion. I
 1. Assemble the **lever**.
    1. Strip 15mm from the end of the **wrapping wire** and loop it around the holes marked `2` in the lever diagram twice and twist it on the top side. Don't loop it to tight, leave about 1 mm clearance to tie the SMA wire to the loop. Add a drop of solder to the wrapping wire on top of the board to secure the loops together. Cut the wrapping wire at 15cm after the loop. 
    ![wrapping wire loop](/docs/img/temp/2_1_1_loop.jpg)
-   1. Tie the **SMA wire** to the loop of wrapping wire that we just created with two simple knots, as shown in the diagram. Cut the wire at 5cm after the knot. (If you have dificulties tiying it down, you could leave extra lenght to facilitate the process).
+   1. Tie the **SMA wire** to the loop of wrapping wire that we just created with two simple knots, as shown in the diagram. Cut the wire at 5cm after the knot. (If you have dificulties tiying it down, you could leave extra lenght to facilitate the process). You can look at this [online animated knot tutorial](https://www.animatedknots.com/overhand-knot) for more inforamtion. 
    ![tying the muscle wire](/docs/img/temp/2_1_2_mw_knot.jpg)
    1. Insert the **steel wire** in the middle hole marked `3` from the bottom and wrap it around the other `3` holes as shown in the picture. Cut the wire leaving about 10mm from the bottom end of the lever.
    ![wrapping steel wire to lever](/docs/img/temp/2_1_3_lever_steel.jpg)
