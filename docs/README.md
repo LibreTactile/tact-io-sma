@@ -23,6 +23,14 @@ We (my PhD research team and our partners) are developing [assistive technology 
 
 _NOTE_: To allow as many people as possible to build and use the tactile actuator, our design favors **simplicity** over performance, size, or aesthetics. We encourage anyone that would like to improve the design or create their own design.
 
+## Who is tact-io for?
+
+Anyone interested in computer controlled tactile stimulation, which includes gamers, VR/XR enthusiasts, makers, electronics hobbists, and user experience researchers.
+
+Also, organizations that do reaserch and development in related fields might benefit from supporting this open source project.
+
+Finally, both visually impaired users and rehabilitation technology researchers can benefit from easier development of assistive technology.
+
 ## How tact-io works:
 
 ![working principle illustration](/docs/img/working-principle.png)  
@@ -46,14 +54,6 @@ Then we created a VR scene for Google Cardboard in the Unity3D game engine, with
 We are currently developing an [assitive technology device to support screen reader interent navigation](https://societeinclusive.ca/en/projets/dispositif-assistance-navigation/) for visually impaired users.
 
 > Learn more about how to adapt tact-io to your project in our [user manual](/docs/user-manual.md).
-
-## Who is tact-io for?
-
-Anyone interested in computer controlled tactile stimulation, which includes gamers, VR/XR enthusiasts, makers, electronics hobbists, and user experience researchers.
-
-Also, organizations that do reaserch and development in related fields might benefit from supporting this open source project.
-
-Finally, both visually impaired users and rehabilitation technology researchers can benefit from easier development of assistive technology.
 
 ## How to build it:
 
